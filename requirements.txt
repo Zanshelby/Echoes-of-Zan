@@ -1,0 +1,8 @@
+Flask==2.3.2
+werkzeug==2.3.7
+librosa==0.10.0.post2
+SpeechRecognition==3.8.1
+ffmpeg-python==0.2.0
+numpy==1.24.3
+torch==2.0.1
+openai-whisper==20230314
